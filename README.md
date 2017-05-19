@@ -16,5 +16,6 @@ docker run -e BREAKOUT_DATABASE_NAME=database \
 
 # Todos
 - [ ] Move from deprecated `--link` to `docker network`
+- [ ] Use smaller base image (e.g alpine linux)
 
 This is based on https://github.com/thepiwo/backup-to-owncloud, thanks! 🙌
